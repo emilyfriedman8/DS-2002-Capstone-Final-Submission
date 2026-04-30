@@ -136,6 +136,6 @@ Execute:
 
 ## Key Takeaways
 
-- Data cleaning is critical—small inconsistencies can significantly distort results  
+- Data cleaning is critical and small inconsistencies can significantly distort results  
 - Cloud pipelines improve collaboration but require careful path management  
 - Real-world data is messy, and building robust pipelines is essential for reliable analysis  
