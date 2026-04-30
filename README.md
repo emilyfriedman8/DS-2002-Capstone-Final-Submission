@@ -1,7 +1,7 @@
 # DS-2002-Capstone-Final-Submission
 
 ## Overview
-This project analyzes electric vehicle (EV) charging station usage using a full ETL (Extract, Transform, Load) pipeline. We integrate multiple datasets, clean and standardize inconsistent data, and generate insights through five analytical questions focused on demand patterns, vehicle usage, weather impacts, geographic trends, and connector types.
+This project analyzes electric vehicle (EV) charging station usage using a full ETL pipeline. We integrate multiple datasets, clean and standardize inconsistent data, and generate insights through five analytical questions focused on demand patterns, vehicle usage, weather impacts, geographic trends, and connector types.
 
 The goal is to demonstrate how real-world data pipelines support meaningful analysis and decision-making.
 
